@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=./aspose-words-18.6-jdk16-crack.jar -DgroupId=com.aspose -DartifactId=aspose -Dversion=1.0.0 -Dpackaging=JAR
